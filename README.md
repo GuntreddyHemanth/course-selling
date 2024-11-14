@@ -24,7 +24,7 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/jai0401/course-selling-site.git
+   git clone https://github.com/GuntreddyHemanth/course-selling
    cd coursify
 
 2. Install dependencies and start development server:
